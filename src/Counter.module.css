@@ -1,0 +1,17 @@
+.counter{
+  margin:20px auto;
+  background-color: rgb(214, 214, 214);
+  border: 2px solid #000000;
+  border-radius: 5px;
+  height: 120px;
+  width: 200px;
+}
+
+.display{
+  margin:25px;
+}
+
+.controlsPanel{
+  display: flex;
+  justify-content: space-evenly;
+}
